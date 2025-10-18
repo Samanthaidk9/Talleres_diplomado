@@ -2,7 +2,7 @@
 
 ## Taller Regresión Lineal
 
-Se trabajó con el dataset daily-bike-share, que muestra el número de bicicletas alquiladas por día.
+Se trabajó con el dataset daily-bike-share, que muestra el número de bicicletas alquiladas por día. 
 Primero se exploraron los datos y se identificó la variable objetivo rentals.
 Luego se seleccionaron variables numéricas relevantes: temp, atemp, hum y windspeed.
 
